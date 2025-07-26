@@ -31,4 +31,4 @@ Project Overview-
                       Advanced AI Models: Transition to more advanced conversational AI models like Transformers (e.g., using the Hugging Face library) for more natural, context-aware conversations.
                      Government & NGO Partnerships: Integrate with public health dashboards and initiatives to provide valuable anonymized data for monitoring disease outbreaks and formulating health policies.
 
-Google Drive (ppt-project_video) link- https://drive.google.com/drive/folders/14jxvUPDly2EPdTEvHkbt0PMOySnduFGU?usp=sharing
+Google Drive (ppt-project_video) link- https://drive.google.com/drive/folders/1YGhUoPBKsIiO5z_zjDBxRCx9D0uxXbrP?usp=sharing
